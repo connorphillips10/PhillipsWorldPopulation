@@ -1,0 +1,17 @@
+Package: PhillipsWorldPopulation
+Type: Package
+Title: Graphing World Population (1950-2020)
+Version: 0.1.0
+Author: Connor Phillips
+Maintainer: The package maintainer <cjp254@nau.edu>
+Description: This package is for the STA 445 final exam. It contains a function
+    to graph population data. It also contains the final exam RMD file.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
